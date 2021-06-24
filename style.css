@@ -8,10 +8,7 @@ h1{
 body{
 	background-color:Violet;
 }
-/* Naviagtion bar styles */
-div.navigation-bar{
-	text-align:center;
-}
+
 /* Table styled to center */
 table{
 	margin: 0 auto;
@@ -53,5 +50,5 @@ li{
 /* Gives the navigation bar table a border */
 table{
 	border:1px solid black;
+	text-align:center;
 }
-
