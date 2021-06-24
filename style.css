@@ -1,21 +1,58 @@
+/* Webpage title styles */
 h1{
 	text-align:center;
 	font-family:Times;
 	color:white;
 }
+/* Website color */
 body{
 	background-color:Violet;
 }
+/* Naviagtion bar styles */
 div.navigation-bar{
 	text-align:center;
+	border:1;
+}
+/* Table styled to center */
+table{
+	margin: 0 auto;
+}
+/* Links styled white */
+a{
 	color:white;
 }
+/* List titles style */
 h2{
 	text-align:left;
 	color:white;
 }
+/* Centers image with class image */
 .image{
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
 }
+/* Centers gallery header */
+.gallery{
+	text-align:center;
+}
+/* Styles list items on each webpage */
+li{
+	margin-bottom:15px;
+	color:white;
+}
+/* Styles references */
+.reference{
+	text-align:center;
+	color:white;
+}
+/* Styles button that takes user to top of page */
+.top{
+	color:blue;
+	font-size:20px;
+}
+/* Gives the navigation bar table a border */
+table{
+	border:1px solid black;
+}
+
